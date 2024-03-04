@@ -10,8 +10,8 @@ last_attendance_time = {}
 absent_students = []
 present_students = []
 
-EMAIL_ADDRESS = "almaztakele433@gmail.com"
-APP_PASSWORD = "jkei ouvc zogu xhqi" 
+EMAIL_ADDRESS = "gmail"
+APP_PASSWORD = "password" 
 
 def send_email(subject, body, to_email):
     msg = MIMEText(body)
